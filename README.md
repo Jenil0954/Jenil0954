@@ -1,11 +1,8 @@
-using namespace std;
- 
-// Main() function: where the execution of
-// program begins
-int main()
-{
-    // Prints hello world
-    cout << "Hello World";
- 
+// Your First C++ Program
+
+#include <iostream>
+
+int main() {
+    std::cout << "Hello World!";
     return 0;
 }
